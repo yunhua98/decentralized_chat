@@ -1,5 +1,4 @@
-# group-project-NOP
-Decentralized Chat Application
+# Decentralized Chat Application
 
 ## Components:
 [Initial Write-Up](./docs/writeup.md)
